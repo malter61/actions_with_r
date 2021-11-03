@@ -1,0 +1,32 @@
+{
+"R": {
+  "Version": "4.0.3",
+  "Repositories": [
+    {
+      "Name": "REPO_NAME",
+      "URL": https://packagemanager.rstudio.com/all/352"
+    }
+  ]
+ },
+ "Packages": {
+    "MASS": {
+      "Package": "MASS",
+      "Version": 7.3-53",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "HASH": "d1bc1c8e9c0ace57ec9ffea01021d45f"
+    },
+    "Matrix": {
+      "Package": "Matrix",
+      "Version": "1.2-18",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "08588806cba69f04797dab50627428ed"
+     },
+     "R6": {
+      "Package": "R6",
+      "Version": "2.4.1",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Hash": 292b54f8f4b94669b08f94e5acce6be2"
+     }
