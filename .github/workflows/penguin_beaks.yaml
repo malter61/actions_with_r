@@ -25,4 +25,5 @@ jobs:
           # Add table
           cat mymodel.html >> report.md
           # Send report
+          
           cml-send-comment report.md
