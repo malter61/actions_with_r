@@ -23,7 +23,7 @@ jobs:
           # Add picture
           cml-publish my_penguin_plot.png --md > report.md 
           # Add table
-          cat mymodel.html >> report.md
+          #cat mymodel.html >> report.md
           # Send report
           
           cml-send-comment report.md
